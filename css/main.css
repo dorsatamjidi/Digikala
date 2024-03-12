@@ -1,5 +1,5 @@
 @import "./Partials/setting.css";
-@import "./Partials/header.css";
+@import url("./Partials/header.css");
 @import "./Partials/story.css";
 @import "./Partials/autoslider.css";
 @import "./Partials/partlist.css";
