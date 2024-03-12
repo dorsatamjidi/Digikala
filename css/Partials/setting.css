@@ -39,6 +39,7 @@ html {
   width: 8px;
   background-color:rgb(236, 237, 238);
 }
+
 ::-webkit-scrollbar-thumb{
   width: 8px;
   background-color: rgb(198, 198, 201);
